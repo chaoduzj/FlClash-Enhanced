@@ -1,6 +1,8 @@
 # FlClash 增强功能完整指南
 
 <div align="center">
+
+**重要声明：由于开发者个人时间精力有限，本仓库已停止维护。
   
 **语言选择 | Language Selection**
 
