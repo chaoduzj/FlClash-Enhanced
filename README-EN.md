@@ -1,6 +1,8 @@
 ## FlClash Enhanced
 
 <div align="center">
+
+Important Notice: Due to limited personal time and resources of the developer, this repository has ceased maintenance.
   
 **语言选择 | Language Selection**
 
